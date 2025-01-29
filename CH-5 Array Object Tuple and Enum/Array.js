@@ -1,24 +1,17 @@
 //Core Types In TS
-
-
 //Array
 //Number
-let arr:number[] = [1,2,3,4,5];
+var arr = [1, 2, 3, 4, 5];
 console.log(arr[0]);
-
 //String
-let arr2:string[] = ["Hello Friends"]
+var arr2 = ["Hello Friends"];
 console.log(arr2[0]);
-
 //Number & String
-
-let arr3:[string ,number] = ["Hello G",34];
+var arr3 = ["Hello G", 34];
 console.log(arr3[0]);
 console.log(arr3[1]);
-
 //Number,String & Bolean
-
-let arr4:[number,string,boolean] = [34,"ali",true];
+var arr4 = [34, "ali", true];
 console.log(arr4[0]);
 console.log(arr4[1]);
 console.log(arr4[2]);
