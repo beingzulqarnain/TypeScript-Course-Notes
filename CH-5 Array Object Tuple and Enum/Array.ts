@@ -5,9 +5,14 @@
 //Number
 let arr:number[] = [1,2,3,4,5];
 console.log(arr[0]);
+//How to Keep multiple Data
+
+let data :any[];
+data = ["Ali","C++",23,true]
 
 //String
-let arr2:string[] = ["Hello Friends"]
+let arr2:string[];
+arr2 = ["Hello Friends"]
 console.log(arr2[0]);
 
 //Number & String

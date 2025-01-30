@@ -1,5 +1,26 @@
+//! Core Types In TS
 
-//Core Types In TS
+const studentData: {
+  firstName: string;
+  age: number;
+  skills: string[];
+} = {
+  firstName: "Abuzar",
+  age: 15,
+  skills: ["C", "C++", "C#", "PHP", "HTML", "CSS", "JS"],
+};
+
+console.log(studentData);
+
+//  const person:{firstName:string;age:number;married:boolean;}
+//  = {
+//         firstName:"Yasir",
+//         age:14,
+//         married:false,
+
+//     }
+
+//  console.log(person);
 
 //Objects
 // const person:object = {
