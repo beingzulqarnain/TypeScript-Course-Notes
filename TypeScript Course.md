@@ -1,16 +1,16 @@
 ### Timestamps:
-- 00:00:00 What You'll Learn? ✅
-- 00:03:11 Setup + Installation ✅
-- 00:07:46 Why Typescript? ✅
-- 00:18:43 Core Types in TS ✅
-- 00:30:00 Array, Object, Tuple,  Enum ✅
-- 01:04:31 Union, Literal Types,  Type Alias ✅
-- 01:33:00 Functions ✅
-- 01:52:09 Unknown, Never, Any Types ✅
-- 02:00:00 Classes & Interface✅
-- 02:05:23 Watch Mode (--watch) ✅ 
-- 03:31:01 Type Guards
-- 04:01:31 Type Assertion/Casting
-- 04:09:03 Generics
-- 04:54:51 React.js + Typescript
-- 05:41:57 Node.js + Express.js + Typescript
+- 00:00:00 CH-1 What You'll Learn? ✅
+- 00:03:11 CH-2 Setup + Installation ✅
+- 00:07:46 CH-3 Why Typescript? ✅
+- 00:18:43 CH-4 Core Types in TS ✅
+- 00:30:00 CH-5 Array, Object, Tuple,  Enum ✅
+- 01:04:31 CH-6 Union, Literal Types,  Type Alias ✅
+- 01:33:00 CH-7 Functions ✅
+- 01:52:09 CH-8 Unknown, Never, Any Types ✅
+- 02:00:00 CH-9 Classes & Interface✅
+- 02:05:23 CH-9 Watch Mode (--watch) ✅ 
+- 03:31:01 CH-10 Type Guards
+- 04:01:31 CH-11 Type Assertion/Casting
+- 04:09:03 CH-12 Generics
+- 04:54:51 CH-13 React.js + Typescript
+- 05:41:57 CH-14 Node.js + Express.js + Typescript
