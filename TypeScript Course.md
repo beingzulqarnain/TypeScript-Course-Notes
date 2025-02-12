@@ -11,6 +11,6 @@
 - 02:05:23 CH-9 Watch Mode (--watch) ✅ 
 - 03:31:01 CH-10 Type Guards ✅
 - 04:01:31 CH-11 Type Assertion/Casting ✅
-- 04:09:03 CH-12 Generics
+- 04:09:03 CH-12 Generics ✅
 - 04:54:51 CH-13 React.js + Typescript
 - 05:41:57 CH-14 Node.js + Express.js + Typescript
